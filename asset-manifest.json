@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bmicalculatorns/static/css/main.c9ce196c.css",
+    "main.js": "/bmicalculatorns/static/js/main.094779c6.js",
+    "static/js/787.9a58313a.chunk.js": "/bmicalculatorns/static/js/787.9a58313a.chunk.js",
+    "index.html": "/bmicalculatorns/index.html",
+    "main.c9ce196c.css.map": "/bmicalculatorns/static/css/main.c9ce196c.css.map",
+    "main.094779c6.js.map": "/bmicalculatorns/static/js/main.094779c6.js.map",
+    "787.9a58313a.chunk.js.map": "/bmicalculatorns/static/js/787.9a58313a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9ce196c.css",
+    "static/js/main.094779c6.js"
+  ]
+}
